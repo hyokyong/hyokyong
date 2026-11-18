@@ -1,4 +1,8 @@
-## Hi there 👋
+### Hi I am Lia 👋
+프론트엔드 개발자 연효경입니다.
+
+- 📝 Blog: [Lia's frontend study](https://app.notion.com/p/Lia-s-Frontend-Study-e1b8856dfc814e2cb99009bf8437a2d7?source=copy_link)
+- 📒 Portfolio: [https://hyokyong.github.io/](https://hyokyong.github.io/)
 
 <!--
 **hyokyong/hyokyong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
